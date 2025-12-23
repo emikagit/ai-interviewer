@@ -1,0 +1,10 @@
+# 1. Block the API Keys (CRITICAL)
+.streamlit/secrets.toml
+.env
+
+# 2. Block Python Junk (Compiled files)
+__pycache__/
+*.pyc
+
+# 3. Block System Junk
+.DS_Store
