@@ -4,7 +4,7 @@ from PyPDF2 import PdfReader
 
 # --- 1. PAGE CONFIGURATION & UI SETUP ---
 st.set_page_config(
-    page_title="AI Interviewer", 
+    page_title="AI CEO Interviwer", 
     page_icon="👔",
     layout="centered" # Keeps the chat centered nicely
 )
